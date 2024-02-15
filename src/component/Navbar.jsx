@@ -6,7 +6,7 @@ const Navbar = () => {
       <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
         <a class="navbar-brand" href="#">
-            <img src="src\assets\2034760.svg" alt="B" width="30" height='24' />
+            <img src="https://svgsilh.com/svg/2034760.svg" alt="B" width="30" height='24' />
           </a>
           <button
             class="navbar-toggler"
