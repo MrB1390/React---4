@@ -11,8 +11,8 @@ const Poster = () => {
           </h3>
           <div class="d-flex gap-3 justify-content-center lead fw-normal">
             <img
-              src="src\assets\pexels-josh-sorenson-1714208.jpg"
-              alt="Shoes Collection"
+              src="assets\pexels-josh-sorenson-1714208.jpg"
+              alt="Computer Courses"
               width={"50%"}
             />
           </div>
